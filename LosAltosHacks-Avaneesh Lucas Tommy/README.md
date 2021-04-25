@@ -1,2 +1,0 @@
-# NHacks
-hackathon
