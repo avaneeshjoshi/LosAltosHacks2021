@@ -1,2 +1,2 @@
 # LosAltosHacks2021
-Hackathon With Lucas and Tommy
+Hackathon Project for Los Altos Hacks 2021
